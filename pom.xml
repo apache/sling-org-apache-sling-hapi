@@ -39,9 +39,9 @@
     </properties>
 
     <scm>
-        <connection>scm:svn:http://svn.apache.org/repos/asf/sling/trunk/contrib/extensions/hapi/core</connection>
-        <developerConnection>scm:svn:https://svn.apache.org/repos/asf/sling/trunk/contrib/extensions/hapi/core</developerConnection>
-        <url>http://svn.apache.org/viewvc/sling/trunk/contrib/extensions/hapi/core</url>
+        <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-hapi.git</conncetion>
+        <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-hapi.git</developerConnection>
+        <url>https://gitbox.apache.org/repos/asf?p=sling-org-apache-sling-hapi.git</url>
     </scm>
 
     <build>
